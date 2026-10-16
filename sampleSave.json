@@ -1,0 +1,596 @@
+{
+    "id": "68276e1b-9e3a-4570-bb71-f9bf6ffa623a",
+    "userName": "testuser2@gmail.com",
+    "mostRecentAppSession": 2,
+    "cognitiveBiasSaves": [
+        {
+            "id": "0b593e13-9a83-4b34-a0cf-8abed35ebb9b",
+            "gameSaveId": "68276e1b-9e3a-4570-bb71-f9bf6ffa623a",
+            "appSession": 0,
+            "difficulty": 5,
+            "timeStamp": 1751393853840,
+            "gameScore": 5,
+            "psychScore": 0,
+            "eventData": [
+                {
+                    "id": "696ff1a9-ace2-4478-92c1-f9b9e69dce28",
+                    "cognitiveBiasId": "0b593e13-9a83-4b34-a0cf-8abed35ebb9b",
+                    "round": 1,
+                    "splatOnLeft": false,
+                    "leftEmotion": 0,
+                    "rightEmotion": 0,
+                    "timeStamp": 1751393852414,
+                    "correctChoice": true,
+                    "timeTaken": 609
+                },
+                {
+                    "id": "73388c68-563e-4371-bf89-209406cb40b0",
+                    "cognitiveBiasId": "0b593e13-9a83-4b34-a0cf-8abed35ebb9b",
+                    "round": 2,
+                    "splatOnLeft": true,
+                    "leftEmotion": 0,
+                    "rightEmotion": 0,
+                    "timeStamp": 1751393853840,
+                    "correctChoice": true,
+                    "timeTaken": 434
+                }
+            ]
+        },
+        {
+            "id": "5d467e53-0ac5-4ae8-8c3f-32f42cdc8f2d",
+            "gameSaveId": "68276e1b-9e3a-4570-bb71-f9bf6ffa623a",
+            "appSession": 1,
+            "difficulty": 5,
+            "timeStamp": 1751393973417,
+            "gameScore": 5,
+            "psychScore": 100,
+            "eventData": [
+                {
+                    "id": "ffb0dce9-8ecf-453b-b3d6-7a787db35384",
+                    "cognitiveBiasId": "5d467e53-0ac5-4ae8-8c3f-32f42cdc8f2d",
+                    "round": 1,
+                    "splatOnLeft": false,
+                    "leftEmotion": 0,
+                    "rightEmotion": 0,
+                    "timeStamp": 1751393972084,
+                    "correctChoice": true,
+                    "timeTaken": 499
+                },
+                {
+                    "id": "6872bb43-58b5-454b-b2ea-d7c406fc6abe",
+                    "cognitiveBiasId": "5d467e53-0ac5-4ae8-8c3f-32f42cdc8f2d",
+                    "round": 2,
+                    "splatOnLeft": true,
+                    "leftEmotion": 0,
+                    "rightEmotion": 0,
+                    "timeStamp": 1751393973417,
+                    "correctChoice": true,
+                    "timeTaken": 332
+                }
+            ]
+        },
+        {
+            "id": "a7a2a2a1-8c17-4fb3-87ba-958ed480ea3d",
+            "gameSaveId": "68276e1b-9e3a-4570-bb71-f9bf6ffa623a",
+            "appSession": 2,
+            "difficulty": 5,
+            "timeStamp": 1751394051616,
+            "gameScore": 5,
+            "psychScore": 200,
+            "eventData": [
+                {
+                    "id": "083a801a-37b1-467f-a8c1-358db36889af",
+                    "cognitiveBiasId": "a7a2a2a1-8c17-4fb3-87ba-958ed480ea3d",
+                    "round": 1,
+                    "splatOnLeft": true,
+                    "leftEmotion": 0,
+                    "rightEmotion": 0,
+                    "timeStamp": 1751394050175,
+                    "correctChoice": true,
+                    "timeTaken": 404
+                },
+                {
+                    "id": "3e8f0317-d785-45c7-b576-035e27f4bef4",
+                    "cognitiveBiasId": "a7a2a2a1-8c17-4fb3-87ba-958ed480ea3d",
+                    "round": 2,
+                    "splatOnLeft": false,
+                    "leftEmotion": 0,
+                    "rightEmotion": 0,
+                    "timeStamp": 1751394051616,
+                    "correctChoice": true,
+                    "timeTaken": 444
+                }
+            ]
+        }
+    ],
+    "cognitiveFunctionSaves": [
+        {
+            "id": "4870bd85-3f00-4b31-b16c-78bae1ab80d5",
+            "appSession": 0,
+            "difficulty": 5,
+            "gameSaveId": "68276e1b-9e3a-4570-bb71-f9bf6ffa623a",
+            "timeStamp": 1751393824156,
+            "gameScore": 10,
+            "psychScore": 60,
+            "eventData": [
+                {
+                    "id": "373f48b0-f201-43ed-a7c4-a00f9269dfd3",
+                    "cognitiveFunctionId": "4870bd85-3f00-4b31-b16c-78bae1ab80d5",
+                    "round": 1,
+                    "indexInTrail": 0,
+                    "lengthOfTrail": 3,
+                    "correctPlanetSelected": true,
+                    "timeStamp": 1751393822368,
+                    "timeTaken": 1209
+                },
+                {
+                    "id": "55debd03-bfea-453b-9f11-1c491d275a4e",
+                    "cognitiveFunctionId": "4870bd85-3f00-4b31-b16c-78bae1ab80d5",
+                    "round": 1,
+                    "indexInTrail": 1,
+                    "lengthOfTrail": 3,
+                    "correctPlanetSelected": true,
+                    "timeStamp": 1751393823236,
+                    "timeTaken": 2078
+                }
+            ]
+        },
+        {
+            "id": "f3571e60-f154-4d24-9b07-13317b3ac4b7",
+            "appSession": 1,
+            "difficulty": 5,
+            "gameSaveId": "68276e1b-9e3a-4570-bb71-f9bf6ffa623a",
+            "timeStamp": 1751393945607,
+            "gameScore": 10,
+            "psychScore": 60,
+            "eventData": [
+                {
+                    "id": "bfdeab10-cb16-431e-b2cb-48e84169d996",
+                    "cognitiveFunctionId": "f3571e60-f154-4d24-9b07-13317b3ac4b7",
+                    "round": 1,
+                    "indexInTrail": 0,
+                    "lengthOfTrail": 3,
+                    "correctPlanetSelected": true,
+                    "timeStamp": 1751393944037,
+                    "timeTaken": 1427
+                },
+                {
+                    "id": "99f1fd4c-afc5-45f4-b0a3-469ad922cb3c",
+                    "cognitiveFunctionId": "f3571e60-f154-4d24-9b07-13317b3ac4b7",
+                    "round": 1,
+                    "indexInTrail": 1,
+                    "lengthOfTrail": 3,
+                    "correctPlanetSelected": true,
+                    "timeStamp": 1751393944815,
+                    "timeTaken": 2205
+                }
+            ]
+        },
+        {
+            "id": "a7c6fd47-07d7-45e8-933e-11d54247ffbc",
+            "appSession": 2,
+            "difficulty": 5,
+            "gameSaveId": "68276e1b-9e3a-4570-bb71-f9bf6ffa623a",
+            "timeStamp": 1751394023667,
+            "gameScore": 30,
+            "psychScore": 60,
+            "eventData": [
+                {
+                    "id": "c4bdd891-3710-493f-ac3b-e7c37d8e793a",
+                    "cognitiveFunctionId": "a7c6fd47-07d7-45e8-933e-11d54247ffbc",
+                    "round": 1,
+                    "indexInTrail": 0,
+                    "lengthOfTrail": 3,
+                    "correctPlanetSelected": true,
+                    "timeStamp": 1751394021956,
+                    "timeTaken": 1287
+                },
+                {
+                    "id": "35e27510-15ca-4d00-a607-775acd4dbcc1",
+                    "cognitiveFunctionId": "a7c6fd47-07d7-45e8-933e-11d54247ffbc",
+                    "round": 1,
+                    "indexInTrail": 1,
+                    "lengthOfTrail": 3,
+                    "correctPlanetSelected": true,
+                    "timeStamp": 1751394022539,
+                    "timeTaken": 1870
+                },
+                {
+                    "id": "71d3b906-5945-4c04-bd2e-4914cc89e59b",
+                    "cognitiveFunctionId": "a7c6fd47-07d7-45e8-933e-11d54247ffbc",
+                    "round": 1,
+                    "indexInTrail": 2,
+                    "lengthOfTrail": 3,
+                    "correctPlanetSelected": true,
+                    "timeStamp": 1751394023111,
+                    "timeTaken": 2442
+                }
+            ]
+        }
+    ],
+    "workingMemorySaves": [
+        {
+            "id": "a13c322f-cc8b-4f18-9c61-620583ad94f6",
+            "appSession": 0,
+            "gameSaveId": "68276e1b-9e3a-4570-bb71-f9bf6ffa623a",
+            "difficulty": 5,
+            "timeStamp": 1751393838140,
+            "gameScore": 30,
+            "psychScore": 90,
+            "eventData": [
+                {
+                    "id": "ae90af4c-2045-4e45-90eb-b7efa32538a1",
+                    "workingMemoryId": "a13c322f-cc8b-4f18-9c61-620583ad94f6",
+                    "round": 1,
+                    "indexInSequence": 0,
+                    "lengthOfSequence": 3,
+                    "correctTileSelected": true,
+                    "timeStamp": 1751393832556,
+                    "timeTaken": 303
+                },
+                {
+                    "id": "25ad7fb4-9bcc-4c43-a4bd-7ea7dc39cb9f",
+                    "workingMemoryId": "a13c322f-cc8b-4f18-9c61-620583ad94f6",
+                    "round": 1,
+                    "indexInSequence": 1,
+                    "lengthOfSequence": 3,
+                    "correctTileSelected": true,
+                    "timeStamp": 1751393833043,
+                    "timeTaken": 486
+                },
+                {
+                    "id": "ebb0a84d-e72b-4e73-b64c-97e846724c5e",
+                    "workingMemoryId": "a13c322f-cc8b-4f18-9c61-620583ad94f6",
+                    "round": 1,
+                    "indexInSequence": 2,
+                    "lengthOfSequence": 3,
+                    "correctTileSelected": true,
+                    "timeStamp": 1751393833888,
+                    "timeTaken": 845
+                },
+                {
+                    "id": "8eed644d-ba83-4d5f-b557-ea6597377cd7",
+                    "workingMemoryId": "a13c322f-cc8b-4f18-9c61-620583ad94f6",
+                    "round": 2,
+                    "indexInSequence": 0,
+                    "lengthOfSequence": 3,
+                    "correctTileSelected": false,
+                    "timeStamp": 1751393838139,
+                    "timeTaken": 580
+                }
+            ]
+        },
+        {
+            "id": "4cea1216-dd3a-4b8f-8009-35d20106cdc4",
+            "appSession": 1,
+            "gameSaveId": "68276e1b-9e3a-4570-bb71-f9bf6ffa623a",
+            "difficulty": 5,
+            "timeStamp": 1751393966268,
+            "gameScore": 60,
+            "psychScore": 90,
+            "eventData": [
+                {
+                    "id": "d48d2508-7b7f-4e5a-9cc7-8a951f4ddefb",
+                    "workingMemoryId": "4cea1216-dd3a-4b8f-8009-35d20106cdc4",
+                    "round": 1,
+                    "indexInSequence": 0,
+                    "lengthOfSequence": 3,
+                    "correctTileSelected": true,
+                    "timeStamp": 1751393955857,
+                    "timeTaken": 572
+                },
+                {
+                    "id": "0b1f1f84-213a-4e8d-a76e-e7084f7eaf08",
+                    "workingMemoryId": "4cea1216-dd3a-4b8f-8009-35d20106cdc4",
+                    "round": 1,
+                    "indexInSequence": 1,
+                    "lengthOfSequence": 3,
+                    "correctTileSelected": true,
+                    "timeStamp": 1751393956372,
+                    "timeTaken": 515
+                },
+                {
+                    "id": "164416ca-2466-4a2d-8c6b-0fa64fd48ff8",
+                    "workingMemoryId": "4cea1216-dd3a-4b8f-8009-35d20106cdc4",
+                    "round": 1,
+                    "indexInSequence": 2,
+                    "lengthOfSequence": 3,
+                    "correctTileSelected": true,
+                    "timeStamp": 1751393956903,
+                    "timeTaken": 530
+                },
+                {
+                    "id": "bc49f4a9-7c10-4839-bd52-5b3734fd237e",
+                    "workingMemoryId": "4cea1216-dd3a-4b8f-8009-35d20106cdc4",
+                    "round": 2,
+                    "indexInSequence": 0,
+                    "lengthOfSequence": 3,
+                    "correctTileSelected": true,
+                    "timeStamp": 1751393960798,
+                    "timeTaken": 222
+                },
+                {
+                    "id": "e54c08ef-4e17-4744-86ac-4f533c3e8ea1",
+                    "workingMemoryId": "4cea1216-dd3a-4b8f-8009-35d20106cdc4",
+                    "round": 2,
+                    "indexInSequence": 1,
+                    "lengthOfSequence": 3,
+                    "correctTileSelected": true,
+                    "timeStamp": 1751393961290,
+                    "timeTaken": 492
+                },
+                {
+                    "id": "f6937d9b-f7b9-4af5-9938-1147f921e16b",
+                    "workingMemoryId": "4cea1216-dd3a-4b8f-8009-35d20106cdc4",
+                    "round": 2,
+                    "indexInSequence": 2,
+                    "lengthOfSequence": 3,
+                    "correctTileSelected": true,
+                    "timeStamp": 1751393961706,
+                    "timeTaken": 414
+                },
+                {
+                    "id": "a3fe4296-79db-4176-9ad4-db554d484c06",
+                    "workingMemoryId": "4cea1216-dd3a-4b8f-8009-35d20106cdc4",
+                    "round": 3,
+                    "indexInSequence": 0,
+                    "lengthOfSequence": 4,
+                    "correctTileSelected": false,
+                    "timeStamp": 1751393966268,
+                    "timeTaken": 203
+                }
+            ]
+        },
+        {
+            "id": "11cbb88c-f8ac-422b-b5aa-4969edd64680",
+            "appSession": 2,
+            "gameSaveId": "68276e1b-9e3a-4570-bb71-f9bf6ffa623a",
+            "difficulty": 5,
+            "timeStamp": 1751394043888,
+            "gameScore": 90,
+            "psychScore": 90,
+            "eventData": [
+                {
+                    "id": "418ae3fa-37c0-4bbd-8cde-5cbcba901704",
+                    "workingMemoryId": "11cbb88c-f8ac-422b-b5aa-4969edd64680",
+                    "round": 1,
+                    "indexInSequence": 0,
+                    "lengthOfSequence": 3,
+                    "correctTileSelected": true,
+                    "timeStamp": 1751394032699,
+                    "timeTaken": 149
+                },
+                {
+                    "id": "f8bcd859-14b6-418e-88c6-0eefd803aed7",
+                    "workingMemoryId": "11cbb88c-f8ac-422b-b5aa-4969edd64680",
+                    "round": 1,
+                    "indexInSequence": 1,
+                    "lengthOfSequence": 3,
+                    "correctTileSelected": true,
+                    "timeStamp": 1751394033087,
+                    "timeTaken": 386
+                },
+                {
+                    "id": "cb679027-a2b2-410f-a51d-86404703e2e3",
+                    "workingMemoryId": "11cbb88c-f8ac-422b-b5aa-4969edd64680",
+                    "round": 1,
+                    "indexInSequence": 2,
+                    "lengthOfSequence": 3,
+                    "correctTileSelected": true,
+                    "timeStamp": 1751394033608,
+                    "timeTaken": 521
+                },
+                {
+                    "id": "5aaefe4c-e3b9-470f-b308-74e3b3924e2d",
+                    "workingMemoryId": "11cbb88c-f8ac-422b-b5aa-4969edd64680",
+                    "round": 2,
+                    "indexInSequence": 0,
+                    "lengthOfSequence": 3,
+                    "correctTileSelected": true,
+                    "timeStamp": 1751394037571,
+                    "timeTaken": 291
+                },
+                {
+                    "id": "8a881386-4946-42ae-94dd-48aaa439c300",
+                    "workingMemoryId": "11cbb88c-f8ac-422b-b5aa-4969edd64680",
+                    "round": 2,
+                    "indexInSequence": 1,
+                    "lengthOfSequence": 3,
+                    "correctTileSelected": true,
+                    "timeStamp": 1751394037736,
+                    "timeTaken": 164
+                },
+                {
+                    "id": "e193de14-5ea4-41cc-8b42-dea78da33cc1",
+                    "workingMemoryId": "11cbb88c-f8ac-422b-b5aa-4969edd64680",
+                    "round": 2,
+                    "indexInSequence": 2,
+                    "lengthOfSequence": 3,
+                    "correctTileSelected": true,
+                    "timeStamp": 1751394038352,
+                    "timeTaken": 616
+                },
+                {
+                    "id": "3b21a933-0c12-4a57-9388-def5b7b7e963",
+                    "workingMemoryId": "11cbb88c-f8ac-422b-b5aa-4969edd64680",
+                    "round": 3,
+                    "indexInSequence": 0,
+                    "lengthOfSequence": 4,
+                    "correctTileSelected": true,
+                    "timeStamp": 1751394042991,
+                    "timeTaken": 285
+                },
+                {
+                    "id": "1ad73c0d-5193-4566-8a4e-b93f4b469997",
+                    "workingMemoryId": "11cbb88c-f8ac-422b-b5aa-4969edd64680",
+                    "round": 3,
+                    "indexInSequence": 1,
+                    "lengthOfSequence": 4,
+                    "correctTileSelected": true,
+                    "timeStamp": 1751394043204,
+                    "timeTaken": 213
+                },
+                {
+                    "id": "6597b4d7-f9bb-4402-a9e0-aa2fe0f749d8",
+                    "workingMemoryId": "11cbb88c-f8ac-422b-b5aa-4969edd64680",
+                    "round": 3,
+                    "indexInSequence": 2,
+                    "lengthOfSequence": 4,
+                    "correctTileSelected": true,
+                    "timeStamp": 1751394043635,
+                    "timeTaken": 431
+                },
+                {
+                    "id": "5579547f-bb89-42d4-9aa7-9586eed65656",
+                    "workingMemoryId": "11cbb88c-f8ac-422b-b5aa-4969edd64680",
+                    "round": 3,
+                    "indexInSequence": 3,
+                    "lengthOfSequence": 4,
+                    "correctTileSelected": false,
+                    "timeStamp": 1751394043888,
+                    "timeTaken": 252
+                }
+            ]
+        }
+    ],
+    "impulsivitySaves": [
+        {
+            "id": "5c39a762-ced2-46e1-a6cd-0da8a7f3a3f3",
+            "appSession": 0,
+            "playerId": "84409156-0866-40ba-b7f7-ebdc07efcb97",
+            "gameSaveId": "68276e1b-9e3a-4570-bb71-f9bf6ffa623a",
+            "difficulty": 5,
+            "timeStamp": 1751393890670,
+            "gameScore": 0,
+            "psychScore": 0,
+            "eventData": [
+                {
+                    "id": "f36dad1c-52cf-4523-a0ee-e28a559eabc4",
+                    "impulsivityId": "5c39a762-ced2-46e1-a6cd-0da8a7f3a3f3",
+                    "eventNumber": 0,
+                    "timeStamp": 1751393888678,
+                    "goNoGoSignalStartTime": -2147483648,
+                    "goNoGoSignalEndTime": 0,
+                    "isGoSignal": false,
+                    "triedToJumpOnSignal": false,
+                    "hitWall": false
+                }
+            ]
+        },
+        {
+            "id": "fe8568a0-78da-474f-b5a2-ae3c20d14424",
+            "appSession": 1,
+            "playerId": "84409156-0866-40ba-b7f7-ebdc07efcb97",
+            "gameSaveId": "68276e1b-9e3a-4570-bb71-f9bf6ffa623a",
+            "difficulty": 5,
+            "timeStamp": 1751393988918,
+            "gameScore": 100,
+            "psychScore": 0,
+            "eventData": [
+                {
+                    "id": "f897547a-3cfe-4ed2-952b-f4db5e963b1f",
+                    "impulsivityId": "fe8568a0-78da-474f-b5a2-ae3c20d14424",
+                    "eventNumber": 0,
+                    "timeStamp": 1751393986909,
+                    "goNoGoSignalStartTime": -2147483648,
+                    "goNoGoSignalEndTime": 0,
+                    "isGoSignal": true,
+                    "triedToJumpOnSignal": true,
+                    "hitWall": false
+                }
+            ]
+        },
+        {
+            "id": "259fc069-9430-416f-b9bc-12001c5f8743",
+            "appSession": 2,
+            "playerId": "",
+            "gameSaveId": "68276e1b-9e3a-4570-bb71-f9bf6ffa623a",
+            "difficulty": 5,
+            "timeStamp": 1751394068672,
+            "gameScore": 100,
+            "psychScore": 0,
+            "eventData": []
+        }
+    ],
+    "impairmentSaves": [
+        {
+            "id": "866f985c-fb43-43c7-9347-f537949bf8e6",
+            "appSession": 0,
+            "gameSaveId": "68276e1b-9e3a-4570-bb71-f9bf6ffa623a",
+            "difficulty": 5,
+            "timeStamp": 1751393881760,
+            "gameScore": 117,
+            "psychScore": 0,
+            "eventData": [
+                {
+                    "id": "f4d847a2-c950-46da-896f-6d5d0ca0f1c1",
+                    "impairmentId": "866f985c-fb43-43c7-9347-f537949bf8e6",
+                    "timeStamp": 1751393881760,
+                    "repairNumber": 0,
+                    "averageAngle": 0.0,
+                    "averageVelocity": 0.0,
+                    "averageDistance": 95.08313751220703,
+                    "medianDistance": 116.1583251953125,
+                    "stdDevDistance": 54.65970993041992,
+                    "moveSensitivity": 504.22528076171877,
+                    "windDirectionAngle": 0.0,
+                    "timeTaken": 4.220489501953125,
+                    "repairCompleted": false
+                }
+            ]
+        },
+        {
+            "id": "d418e9d7-7835-4ae6-8a77-4a82114efcda",
+            "appSession": 1,
+            "gameSaveId": "68276e1b-9e3a-4570-bb71-f9bf6ffa623a",
+            "difficulty": 5,
+            "timeStamp": 1751393980529,
+            "gameScore": 125,
+            "psychScore": 0,
+            "eventData": [
+                {
+                    "id": "3a952a5f-e149-40fe-b39b-5ff8e0d13858",
+                    "impairmentId": "d418e9d7-7835-4ae6-8a77-4a82114efcda",
+                    "timeStamp": 1751393980529,
+                    "repairNumber": 0,
+                    "averageAngle": 0.0,
+                    "averageVelocity": 0.0,
+                    "averageDistance": 94.69719696044922,
+                    "medianDistance": 118.69444274902344,
+                    "stdDevDistance": 55.620182037353519,
+                    "moveSensitivity": 503.6158752441406,
+                    "windDirectionAngle": 0.0,
+                    "timeTaken": 3.60931396484375,
+                    "repairCompleted": false
+                }
+            ]
+        },
+        {
+            "id": "8f42dd9a-0442-4b44-9834-c3e96ce54424",
+            "appSession": 2,
+            "gameSaveId": "68276e1b-9e3a-4570-bb71-f9bf6ffa623a",
+            "difficulty": 5,
+            "timeStamp": 1751394060172,
+            "gameScore": 161,
+            "psychScore": 0,
+            "eventData": [
+                {
+                    "id": "bb8722d0-dc46-4fc4-9396-39edf4df4188",
+                    "impairmentId": "8f42dd9a-0442-4b44-9834-c3e96ce54424",
+                    "timeStamp": 1751394060172,
+                    "repairNumber": 0,
+                    "averageAngle": 0.0,
+                    "averageVelocity": 0.0,
+                    "averageDistance": 81.85723114013672,
+                    "medianDistance": 61.963809967041019,
+                    "stdDevDistance": 53.194740295410159,
+                    "moveSensitivity": 504.3360595703125,
+                    "windDirectionAngle": 0.0,
+                    "timeTaken": 4.332763671875,
+                    "repairCompleted": false
+                }
+            ]
+        }
+    ],
+    "psychophysiologySaves": []
+}
