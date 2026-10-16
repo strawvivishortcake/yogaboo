@@ -9,7 +9,7 @@
 | Folder | What it is |
 |---|---|
 | `uploader/` | `yogaboo_upload.py` reads the phone's files and pushes them to Supabase. `make_sample_data.py` writes fake recordings in the same formats for testing. |
-| `portal/` | Your portal repo with a new **Yogaboo** tab added (new files under `src/components/yogaboo/`, `src/services/`, `src/pages/`; small edits to `App.jsx` and `DataSourceTabs.jsx`) and `sql/yogaboo_schema.sql`. |
+| `portal/` | We added a portal repo with a new **Yogaboo** tab added (new files under `src/components/yogaboo/`, `src/services/`, `src/pages/`; small edits to `App.jsx` and `DataSourceTabs.jsx`) and `sql/yogaboo_schema.sql`. |
 
 ## 1. One-time setup
 
